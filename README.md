@@ -523,7 +523,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <img src="EXAMPLES/murshidazher.png">
   </details>
   
-  - [Manish Pandit](https://github.com/Manish068)
+- [Manish Pandit](https://github.com/Manish068)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/manish.PNG">
